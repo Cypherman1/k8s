@@ -1,0 +1,2 @@
+Tensorflow version is: 2.6.0
+Numpy version is:1.19.5
