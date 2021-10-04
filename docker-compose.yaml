@@ -29,6 +29,7 @@ services:
     ports:
       - '3000:3000'
     volumes:
+      - /usr/myapp/node_modules
       - ./web-client:/usr/myapp
     environment:
       - API_URL=http://api-server:5555

@@ -78,7 +78,7 @@ const App = () => {
               <TableRow>
                 <TableCell>No</TableCell>
                 <TableCell align='right'>Date </TableCell>
-                <TableCell align='right'>Number</TableCell>
+                <TableCell align='right'>Numbers</TableCell>
               </TableRow>
             </TableHead>
             <TableBody>
